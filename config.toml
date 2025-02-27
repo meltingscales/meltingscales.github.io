@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://meltingscales.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Henry Post'
 
 [module]
   # this is needed when you fetch the theme as a submodule to your repo.
