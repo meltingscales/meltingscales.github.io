@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Henry Post</title>
-    <link>http://localhost:40803/</link>
-    <description>Recent content on Henry Post</description>
+    <title>/home/HenryPost</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on /home/HenryPost</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:40803/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
