@@ -1,11 +1,17 @@
+Hello! Welcome to Henry Post's public website.
 
+Here I hope to publish my resume, projects, and other information about myself.
 
-test :)
+I used to pay for a domain name, but I've since decided that it's not worth the cost. I'm happy to host this site on GitHub Pages for free.
 
-hello from henry
+My old site used to be at [henrypost.net](https://henrypost.net), but I've since let the domain expire.
 
-my public key:
+I may host other infrastructure on that domain, but for now, this is my main site.
+
+For trust's sake, here is my public SSH key:
 
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID1MsERDmBM3kqpRfYkse/jyqusAp4614GHavi55z8bc melty@melty-FZ55
 ```
+
+I hope you enjoy your stay!
