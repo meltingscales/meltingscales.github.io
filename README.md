@@ -20,6 +20,8 @@ https://panr.github.io/hugo-theme-terminal-demo/
 
 https://themes.gohugo.io/themes/hugo-theme-terminal/
 
+https://github.com/panr/hugo-theme-terminal
+
 ## local dev
 
 ```bash

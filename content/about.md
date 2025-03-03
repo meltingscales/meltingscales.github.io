@@ -19,5 +19,4 @@ I hope you enjoy your stay!
 
 # TODO list
 
-- Automate resume generation from https://github.com/meltingscales/resumes/
 - Migrate all old content from https://github.com/meltingscales/henrypost.net/
