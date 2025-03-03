@@ -11,4 +11,10 @@ description = ""
 showFullContent = false
 readingTime = false
 hideComments = false
+draft = false
 +++
+
+
+hello! i am a post :)
+
+not a henry post, but a blog post.

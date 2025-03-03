@@ -15,3 +15,9 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID1MsERDmBM3kqpRfYkse/jyqusAp4614GHavi55z8bc
 ```
 
 I hope you enjoy your stay!
+
+
+# TODO list
+
+- Automate resume generation from https://github.com/meltingscales/resumes/
+- Migrate all old content from https://github.com/meltingscales/henrypost.net/
