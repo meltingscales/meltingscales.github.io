@@ -103,9 +103,9 @@ title = 'Henry Post'
 
       [languages.en.menu]
         [[languages.en.menu.main]]
-          identifier = "about"
-          name = "~/about"
-          url = "/about"
+          identifier = "about-me"
+          name = "~/about-me"
+          url = "/about-me"
         [[languages.en.menu.main]]
           identifier = "resume"
           name = "~/resume"

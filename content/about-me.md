@@ -1,4 +1,6 @@
-Hello! Welcome to Henry Post's public website.
+Hello! Welcome to Henry Post's (my!) public website.
+
+![](/static/headshot.png)
 
 Here I hope to publish my resume, projects, and other information about myself.
 
