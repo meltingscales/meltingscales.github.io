@@ -8,6 +8,18 @@ TBD mathematica algo recover from hard drive backup
 
 ## 2018
 
+### Logisim ARC Tutoring
+
+[==> See this link for source code! <==](https://github.com/meltingscales/cs-350/tree/master/Logisim)
+
+#### Summary
+
+I tutored many students in digital circuit design using a simulation software called "Logisim".
+
+I worked at the Academic Resource Center (ARC) at IIT. I helped students with their homework and projects, and I also created a few circuits of my own. I also taught C code and assembly in a CPU OPCODE language called "LC3".
+
+![A picture of LogiSim and some circuits - NAND and full adders.](/static/logisim.png)
+
 ### Homeless Shelter Donation Coordination System
 
 TBD: Link
