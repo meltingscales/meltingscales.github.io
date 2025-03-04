@@ -80,7 +80,7 @@ title = 'Henry Post'
 [languages]
   [languages.en]
     languageName = "English"
-    title = "/home/HenryPost"
+    title = "/home/henrypost"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
@@ -98,7 +98,7 @@ title = 'Henry Post'
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "/home/HenryPost/"
+        logoText = "/home/henrypost/"
         logoHomeLink = "/"
 
       [languages.en.menu]
