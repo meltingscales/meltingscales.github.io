@@ -2,7 +2,7 @@
 
 ### ASCII Duplet compression algorithm
 
-TBD mathematica algo
+TBD mathematica algo recover from hard drive backup
 
 <!-- [==> See this link for a PDF presentation <==](/static/ASCII%20Duplet%20Compression%20Algorithm.pdf) -->
 
