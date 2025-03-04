@@ -56,6 +56,14 @@ The analysis revealed that while the automated system is promising—accurately 
 
 ## 2023
 
+### Vulnerabilities in Open-Source Language Servers
+
+TBD
+
+hyper-linear growth of vulnerabilities paper, too
+
+https://github.com/meltingscales/NYU-CS-GY-6233-intro-to-os-final-paper
+
 ## 2024
 
 ## 2025
