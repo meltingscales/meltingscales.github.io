@@ -111,3 +111,8 @@ title = 'Henry Post'
           name = "~/resume"
           url = "/resume"
 
+        [[languages.en.menu.main]]
+          identifier = "projects"
+          name = "~/projects"
+          url = "/projects"
+
