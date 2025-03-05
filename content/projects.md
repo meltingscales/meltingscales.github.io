@@ -2,9 +2,90 @@
 
 ### ASCII Duplet compression algorithm
 
-TBD mathematica algo recover from hard drive backup
+Over the summer, I enrolled in an IIT summer Mathematica course where I coded an ASCII compression algorithm that took 256 of the most common duplets of characters in an ASCII file and compressed them into a file containing a dictionary followed by compressed data.
 
-<!-- [==> See this link for a PDF presentation <==](/static/ASCII%20Duplet%20Compression%20Algorithm.pdf) -->
+I'm actively searching for this code. It's possible it's lost to the sands of time, but I'm sure that I can recreate it if I need to.
+
+The algorithm worked by scanning a file and identifying the most frequent two-character combinations (duplets). These duplets were each assigned a single byte (essentially creating a custom 256-entry dictionary). The file was then rewritten using the custom dictionary, replacing common duplets with their corresponding single-byte code. The compressed file consisted of the dictionary itself, followed by the transformed data stream.
+
+This approach was a primitive form of dictionary compression, loosely inspired by how algorithms like `LZ77` replace recurring patterns with shorter references. It was fun, if not hard, to make.
+
+#### Simulated recreation in Python
+
+##### Code
+```py
+from collections import Counter
+
+# Example file contents
+ASCII_FILE_CONTENTS = "Mary had a little lamb, little lamb, little lamb, Mary had a little lamb, its fleece was white as snow. And everywhere that Mary went, Mary went, Mary went, everywhere that Mary went, the lamb was sure to go."
+
+# Step 1: Find all duplets (overlapping pairs of characters)
+duplets = [ASCII_FILE_CONTENTS[i:i+2] for i in range(len(ASCII_FILE_CONTENTS) - 1)]
+
+# Step 2: Count how often each duplet appears
+duplet_counts = Counter(duplets)
+
+# Step 3: Extract the 256 most common duplets
+most_common_duplets = [pair for pair, _ in duplet_counts.most_common(256)]
+
+# Step 4: Build a dictionary mapping each common duplet to a byte value (0-255)
+duplet_dictionary = {duplet: chr(i) for i, duplet in enumerate(most_common_duplets)}
+
+# Step 5: Encode the file using the dictionary (replacing each matched duplet)
+compressed_data = []
+i = 0
+
+while i < len(ASCII_FILE_CONTENTS) - 1:
+    pair = ASCII_FILE_CONTENTS[i:i+2]
+    if pair in duplet_dictionary:
+        compressed_data.append(duplet_dictionary[pair])
+        i += 2
+    else:
+        compressed_data.append(ASCII_FILE_CONTENTS[i])
+        i += 1
+
+# Handle the final character if the file has an odd length
+if i < len(ASCII_FILE_CONTENTS):
+    compressed_data.append(ASCII_FILE_CONTENTS[-1])
+
+# Final compressed output: dictionary + compressed data
+compressed_file = {
+    "dictionary": duplet_dictionary,
+    "data": "".join(compressed_data)
+}
+
+# Example output
+print("Original length:", len(ASCII_FILE_CONTENTS))
+print("Compressed length (excluding dictionary):", len(compressed_file["data"]))
+print("Dictionary (first 10 entries):", dict(list(duplet_dictionary.items())[:10]))
+```
+
+##### Output
+
+Notice how the compressed length is roughly half the original length, thanks to the replacement of common duplets with single-byte codes.
+
+Also, notice how "ry" and "Ma" are among the most common duplets, as they appear frequently in the text.
+"ry" is replaced by the byte `'\x02'`, and "Ma" is replaced by the byte `'\x05'`.
+
+We also see "ar" being replaced by `'\x06'`, "y " by `'\x07'`, and so on.
+This is actually inefficient, as we could have used a more sophisticated encoding scheme to save even more space.
+It's inefficient because of the overlap between the most common duplets. If a duplet half-overlaps with another, that's wasted space.
+`"Ma" "ar" "ry"` getting encoded is worse than just `"ma" "ry"`, for example.
+
+ALSO, another limitation - we can't use the first 256 ASCII characters in the dictionary, as we need them for the dictionary itself. We could have used a more sophisticated encoding scheme to avoid this limitation, or we could have used code-switching to switch between different dictionaries, or switch between a dictionary and a different encoding scheme.
+
+> (Henry thinking: Does LZMA do this? I think it does. I should read the implementation and dissect a running LZMA implementation's byte stream to see how it works.)
+
+
+```txt
+>>> # Example output
+>>> print("Original length:", len(ASCII_FILE_CONTENTS))
+Original length: 208
+>>> print("Compressed length (excluding dictionary):", len(compressed_file["data"]))
+Compressed length (excluding dictionary): 104
+>>> print("Dictionary (first 10 entries):", dict(list(duplet_dictionary.items())[:10]))
+Dictionary (first 10 entries): {'e ': '\x00', ' l': '\x01', 'ry': '\x02', ', ': '\x03', ' w': '\x04', 'Ma': '\x05', 'ar': '\x06', 'y ': '\x07', 'it': '\x08', 'le': '\t'}
+```
 
 ## 2018
 
