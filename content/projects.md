@@ -1,4 +1,38 @@
-## Highschool
+## 2012 (beginning of highschool)
+
+### NCP Tech Club
+
+Part of a student-led school-wide computer repair club at Northside College Preparatory High School. Serviced laptops, servers, and desktops.
+
+### Landscaping: Dirt Actualizers
+
+Worked for “Dirt Actualizers”, a landscaping club at Northside College Preparatory High School.
+
+Programmed an arduino + electrodes to detect moisture differences in dirt to be able to tell when a plant needs watering.
+
+### OBLand: Self-hosted minecraft server
+
+Ran and administered a few minecraft servers
+
+php code
+
+LAMP stack
+
+mysql admin
+
+custom plugin
+
+setting up INI files
+
+## 2013
+
+## 2014
+
+## 2015
+
+## 2016
+
+## 2017 (end of highschool)
 
 ### ASCII Duplet compression algorithm
 
@@ -119,7 +153,7 @@ Its design was supposed to be similar to Kubernetes, except decentralized with a
 
 I only got rough sketches done, but I think that the idea is still a good one. I hope that someone else can pick up where I left off and make it a reality.
 
-## 2019
+## 2019 (beginning of college)
 
 ### OSINT Dashboard: Mary "Bowser"
 

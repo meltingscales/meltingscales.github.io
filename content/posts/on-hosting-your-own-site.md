@@ -5,11 +5,11 @@ date = "2025-02-27T12:28:57-06:00"
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["rant", "webdev"]
+tags = ["rant", "webdev", "programming"]
 keywords = ["github-pages", "hugo"]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 draft = false
 +++
