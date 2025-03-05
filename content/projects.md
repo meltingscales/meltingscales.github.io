@@ -70,7 +70,7 @@ Also, notice how "ry" and "Ma" are among the most common duplets, as they appear
 We also see "ar" being replaced by `'\x06'`, "y " by `'\x07'`, and so on.
 This is actually inefficient, as we could have used a more sophisticated encoding scheme to save even more space.
 It's inefficient because of the overlap between the most common duplets. If a duplet half-overlaps with another, that's wasted space.
-`"Ma" "ar" "ry"` getting encoded is worse than just `"ma" "ry"`, for example.
+`"Ma" "ar" "ry"` getting encoded is worse than just `"Ma" "ry"`, for example. We could save space by not encoding "ar".
 
 ALSO, another limitation - we can't use the first 256 ASCII characters in the dictionary, as we need them for the dictionary itself. We could have used a more sophisticated encoding scheme to avoid this limitation, or we could have used code-switching to switch between different dictionaries, or switch between a dictionary and a different encoding scheme.
 
