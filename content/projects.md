@@ -22,11 +22,21 @@ I worked at the Academic Resource Center (ARC) at IIT. I helped students with th
 
 ### Homeless Shelter Donation Coordinator
 
-TBD: Link
+[==> See this link for source code! <==](https://github.com/meltingscales/homeless-shelter-donation-pickup-coordinator)
+
+[==> See this link for drawings! <==](https://github.com/meltingscales/homeless-shelter-donation-pickup-coordinator/tree/master/_sketches)
 
 #### Summary
 
-TBD
+This was a project that I worked on that was inspired by my mother, Anne-Marie Keswick. She worked at various different women's shelters and homeless shelters in the Chicago area.
+
+The project was a web application that would allow people to donate items to homeless shelters. The shelters would have a list of items that they needed, and people could sign up to donate those items. The shelters would then be able to coordinate with the donors to pick up the items. 
+
+It was planned to orchestrate logistics and optimize the distribution of desired goods, weighted by category and urgency.
+
+Its design was supposed to be similar to Kubernetes, except decentralized with a focus on local communities. Copying nature is always a good idea, and the way that ants and bees work together is a great example of how to distribute resources efficiently.
+
+I only got rough sketches done, but I think that the idea is still a good one. I hope that someone else can pick up where I left off and make it a reality.
 
 ## 2019
 
@@ -105,16 +115,41 @@ Ideally, Twitter should provide these sorts of feeds to emergency responders, bu
 
 ## 2022
 
+### A survey on automated software vulnerability discovery, exploitation, and patching
+
+This paper is a survey of the current state of automated software vulnerability discovery, exploitation, and patching. It covers the history of automated vulnerability discovery, the current state of the art, and future directions for research.
+
+Its main conclusion is that solely human-powered vulnerability discovery is no longer sufficient to keep up with the pace of software development. Automated tools are necessary to keep up with the pace of software development and the increasing complexity of software systems.
+
+It seems that the growth of vulnerabilities is hyper-linear, and that the number of vulnerabilities is growing faster than the number of software developers. This is a worrying trend, and it is likely that the number of vulnerabilities will continue to grow in the future.
+
+[==> See this link for source code! <==](https://github.com/meltingscales/NYU-CS-GY-6813-infosec-and-privacy/tree/master/paper/final)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BgICl-5bqbQ?si=QxhW5DyURWL57YWK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## 2023
 
 ### Vulnerabilities in Open-Source Language Servers
 
-TBD
+[==> See this link for source code! <==](https://github.com/meltingscales/NYU-CS-GY-6233-intro-to-os-final-paper)
 
-hyper-linear growth of vulnerabilities paper, too
-
-https://github.com/meltingscales/NYU-CS-GY-6233-intro-to-os-final-paper
+<iframe width="560" height="315" src="https://www.youtube.com/embed/msj1KjN7eb8?si=AnzAFE22jZzZWmiT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 2024
 
+### Hidden Vulnerabilities in Google Play Store Apps - CS-GY – 9223 – Mobile Security
+
+[==> See this link for source code! <==](https://github.com/meltingscales/NYU-CS-GY-6xxx-mobile-security-final-project)
+
+[==> See this link for a PDF presentation <==](https://github.com/meltingscales/NYU-CS-GY-6xxx-mobile-security-final-project/blob/master/MobSec%20Final%20Presentation.pdf)
+
+#### Summary
+
+This is a survey of 10 semi-randomly selected apps from the Google Play Store. We found that all of the apps had at least one vulnerability, and that some of the vulnerabilities were severe. We also found that there were some slight accuracy issues with free SAST/Secrets tools.
+
+We used simple, free, open-source tools to extract the APK, and decompile them. We also used a free SAST tool to scan the source code for vulnerabilities.
+
 ## 2025
+
+TBD
