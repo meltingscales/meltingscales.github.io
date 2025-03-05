@@ -111,11 +111,17 @@ Ideally, Twitter should provide these sorts of feeds to emergency responders, bu
 
 ## 2020
 
+### Vulnerability "Field Guide" - CWE Reference Manual
+
+I created a "field guide" that provides a comprehensive overview of common vulnerabilities and their remediation strategies. This guide is intended to serve as a reference for security engineers and developers, helping them to quickly identify and address vulnerabilities in their code.
+
+It was over 20 pages, covered hundreds of different CWE types, and was a great resource for our team. I believe that it is still being used by my team today, in 2025.
+
 ## 2021
 
 ## 2022
 
-### A survey on automated software vulnerability discovery, exploitation, and patching
+### A survey on automated software vulnerability discovery, exploitation, and patching - NYU-CS-GY-6813 - Infosec and Privacy
 
 This paper is a survey of the current state of automated software vulnerability discovery, exploitation, and patching. It covers the history of automated vulnerability discovery, the current state of the art, and future directions for research.
 
@@ -130,7 +136,7 @@ It seems that the growth of vulnerabilities is hyper-linear, and that the number
 
 ## 2023
 
-### Vulnerabilities in Open-Source Language Servers
+### Vulnerabilities in Open-Source Language Servers - NYU-CS-GY-6233 - Intro to OS
 
 [==> See this link for source code! <==](https://github.com/meltingscales/NYU-CS-GY-6233-intro-to-os-final-paper)
 
@@ -138,7 +144,7 @@ It seems that the growth of vulnerabilities is hyper-linear, and that the number
 
 ## 2024
 
-### Hidden Vulnerabilities in Google Play Store Apps - CS-GY – 9223 – Mobile Security
+### Hidden Vulnerabilities in Google Play Store Apps - NYU-CS-GY-9223 - Mobile Security
 
 [==> See this link for source code! <==](https://github.com/meltingscales/NYU-CS-GY-6xxx-mobile-security-final-project)
 
