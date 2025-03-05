@@ -106,6 +106,12 @@ title = 'Henry Post'
           identifier = "about-me"
           name = "~/about-me"
           url = "/about-me"
+
+        [[languages.en.menu.main]]
+          identifier = "about-site"
+          name = "~/about-site"
+          url = "/about-site"
+
         [[languages.en.menu.main]]
           identifier = "resume"
           name = "~/resume"

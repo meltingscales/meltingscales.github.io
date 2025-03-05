@@ -29,3 +29,11 @@ https://github.com/panr/hugo-theme-terminal
 ```
 
 ## add new posts
+
+just copy-paste. the frontmatter is the most important part.
+
+or, 
+
+```bash
+hugo new posts/nanachi-rocks.md
+```
