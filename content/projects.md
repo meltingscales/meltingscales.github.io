@@ -10,19 +10,21 @@ Worked for “Dirt Actualizers”, a landscaping club at Northside College Prepa
 
 Programmed an arduino + electrodes to detect moisture differences in dirt to be able to tell when a plant needs watering.
 
-### OBLand: Self-hosted minecraft server
+### OBLand/HenryLand: Self-hosted minecraft server
 
-Ran and administered a few minecraft servers
+I ran and administered a few minecraft servers with friends.
 
-php code
+![A picture of my very old Minecraft server listing.](/static/projects/henryland.png)
 
-LAMP stack
+<https://www.planetminecraft.com/forums/minecraft/servers/henryland-92154/>
 
-mysql admin
+I think I was about 13 years old at the time. So! In 2012 (and in 2008, when my father showed me how to replace RAM), my love for computers, and Linux, started.
 
-custom plugin
+I learned how PHP code works, although I didn't understand what "code execution" was, I was smart enough to figure out that configuration files were how Minecraft plugins communicated with a person's web browser.
 
-setting up INI files
+I found out how to port forward, figured out how to install plugins to a Minecraft server. I used the WAMP stack: Windows, Apache, MySQL, PHP. I learned how to use MySQL, and I learned how to use PHPMyAdmin. Again, I had no real clue what I was doing, but through trial and error, I figured it out.
+
+We served about 20 individual players during 2012. I think that's a pretty good number for a 13-year-old. I was proud of it, and I still am. I think that it's a great example of how a young person can learn how to do something, and then do it. If they're dedicated enough, they can learn anything.
 
 ## 2013
 
@@ -273,4 +275,6 @@ We used simple, free, open-source tools to extract the APK, and decompile them. 
 
 ## 2025
 
-TBD
+### Homeless Shelter Database Project - New York University - CS-GY 6083 2025 Spring Database Final Project
+
+TBD publish/record it.
