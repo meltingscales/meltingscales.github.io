@@ -25,7 +25,7 @@ https://github.com/panr/hugo-theme-terminal
 ## local dev
 
 ```bash
-./serve.bash
+./scripts/serve.bash #(run in root dir)
 ```
 
 ## add new posts
