@@ -277,4 +277,6 @@ We used simple, free, open-source tools to extract the APK, and decompile them. 
 
 ### Homeless Shelter Donation Coordination System - New York University - CS-GY 6083 2025 Spring Database Final Project
 
-TBD publish/record it.
+
+
+TBD describe it...

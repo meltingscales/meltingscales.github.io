@@ -35,5 +35,5 @@ just copy-paste. the frontmatter is the most important part.
 or, 
 
 ```bash
-hugo new posts/nanachi-rocks.md
+hugo new content posts/nanachi-rocks.md
 ```
