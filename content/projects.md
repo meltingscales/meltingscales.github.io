@@ -277,6 +277,16 @@ We used simple, free, open-source tools to extract the APK, and decompile them. 
 
 ### Homeless Shelter Donation Coordination System - New York University - CS-GY 6083 2025 Spring Database Final Project
 
+This was my final project for my database class at NYU. It was a project that I worked on that was inspired by my mother, Anne-Marie Keswick. She worked at various homeless shelters in the Chicago area. The project was a web application that would allow people to donate items to homeless shelters. The shelters would have a list of items that they needed, and people could sign up to donate those items. The shelters would then be able to coordinate with the donors to pick up the items. It was planned to orchestrate logistics and optimize the distribution of desired goods, weighted by category and urgency.
 
+It'd be neat to combine this with my really early project, the Minecraft server, and have a Minecraft server where people could pay to donate items to homeless shelters. I think that would be a fun project. A closed-loop ecosystem that uses Minecraft to guide donations to homeless shelters.
 
-TBD describe it...
+I'd also love to combine the really old code from late highschool and some of my drawings of the homeless shelter donation system.
+
+I did not implement all of those features, but I did implement a basic version of the system. I think that the idea is still a good one. I hope that someone else can pick up where I left off and make it a reality.
+
+[--> This is my final presentation video <--](https://youtu.be/0jUU-g4dFVg)
+
+[--> This is my final presentation PDF/ppt <--](https://github.com/meltingscales/cs-gy-6083-2025-spring-db-final-project/blob/master/PRESENTATION-Homeless-Shelter-Donation-Coordination-System.pdf) 
+
+[--> This is the source code for the project <--](https://github.com/meltingscales/cs-gy-6083-2025-spring-db-final-project/)
