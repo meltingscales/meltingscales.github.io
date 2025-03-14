@@ -287,6 +287,8 @@ I did not implement all of those features, but I did implement a basic version o
 
 [--> This is my final presentation video <--](https://youtu.be/0jUU-g4dFVg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0jUU-g4dFVg?si=6GtBMQnaMg54NcjO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [--> This is my final presentation PDF/ppt <--](https://github.com/meltingscales/cs-gy-6083-2025-spring-db-final-project/blob/master/PRESENTATION-Homeless-Shelter-Donation-Coordination-System.pdf) 
 
 [--> This is the source code for the project <--](https://github.com/meltingscales/cs-gy-6083-2025-spring-db-final-project/)
