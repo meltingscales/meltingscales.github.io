@@ -18,6 +18,10 @@ Okay. So...business cards suck! They're annoying, expensive to get printed, and 
 
 Let's fix it with technology!
 
+See below for a picture of my business card. 
+
+![](/static/business-card.png)
+
 3 years ago, in 2022, I made a ReactJS package to render business cards in HTML:
 
 <https://github.com/meltingscales/react-business-card-hfbp?tab=readme-ov-file>
@@ -36,6 +40,3 @@ To change aspect ratio, you can edit the CSS in the HTML file. You can also edit
 
 [--> Click this link to download the HTML-only business card. You'll need to change the extension. Then, just take a screenshot and email that to your favorite printing company. <--](/static/business-card.html.txt)
 
-See below for a picture of my business card. 
-
-![](/static/business-card.png)

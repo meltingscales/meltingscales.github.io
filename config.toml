@@ -102,10 +102,16 @@ title = 'Henry Post'
         logoHomeLink = "/"
 
       [languages.en.menu]
+
         [[languages.en.menu.main]]
           identifier = "about-me"
           name = "~/about-me"
           url = "/about-me"
+
+        [[languages.en.menu.main]]
+          identifier = "business-card"
+          name = "~/business-card"
+          url = "/posts/2025-03-10-business-cards-suck/"
 
         [[languages.en.menu.main]]
           identifier = "about-site"
