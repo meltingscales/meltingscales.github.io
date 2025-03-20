@@ -267,6 +267,8 @@ It seems that the growth of vulnerabilities is hyper-linear, and that the number
 
 [==> See this link for a PDF presentation <==](https://github.com/meltingscales/NYU-CS-GY-6xxx-mobile-security-final-project/blob/master/MobSec%20Final%20Presentation.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4o2URWPtqX4?si=p-6e_cmdP7jCyWri" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Summary
 
 This is a survey of 10 semi-randomly selected apps from the Google Play Store. We found that all of the apps had at least one vulnerability, and that some of the vulnerabilities were severe. We also found that there were some slight accuracy issues with free SAST/Secrets tools.
