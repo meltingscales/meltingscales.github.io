@@ -26,7 +26,7 @@ Right now, I can purchase a $1,200 gaming laptop and go onto HuggingFace and dow
 
 I can ask it to generate fake political videos. Maybe Joe Biden chasing cats through the white house! Maybe a fake video of someone doing something very evil. Maybe fake audio! Maybe some encryption ransomware. <http://github.com/meltingscales/owocryptor> (owocryptor was not written using AI.)
 
-Tricking yourself into thinking that "AI safety" and "making a leadership council" and etc - will stop the wave of deepfakes and hacking that is a result of the democratization of knowledge that decentralized AI models such as those hosted on HuggingFace - is crazy. Just use HuggingFace and you'll see how local AI trumps all of those "safeguards".
+Tricking yourself into thinking that "AI safety" and "making a leadership council" and etc - will stop the wave of deepfakes and hacking that is a result of the democratization of knowledge that decentralized AI models such as those hosted on HuggingFace has created - is crazy. Just use HuggingFace and you'll see how local AI trumps all of those "safeguards".
 
 I think that AI safety was dead the moment the NVIDIA Vid2Vid paper <https://github.com/NVIDIA/vid2vid> dropped, which was 7 years ago. AI safety is not going to ever work, because "safe code" simply does not exist outside of human conceptions of "safety". Cars are unsafe. Power tools are unsafe. Guns are unsafe. As long as a human can operate it, it can be deemed "unsafe". Heck, even having an algorithm operate a car can result in "unsafe" behavior, because "safety" is an entirely arbitrary and human-created concept. "Safety" does not exist.
 
