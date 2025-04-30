@@ -20,7 +20,7 @@ A poorer black friend of mine, let's call him "M", with friends in O-Block (a da
 - Most wealthy people operate on autopilot and lead far more stable and peaceful lives than very poor people.
 - The world is an unfair place.
 
-1. White people love saying `N****R` for some strange reason (Extreme entitlement, lack of introspection)
+1. White people love saying slurs for some strange reason (Extreme entitlement, lack of introspection)
 2. American individualism is bad for the collective, good for the individual, and explains the phenomenon of entitled social interactions like "Karens" ([example](https://www.youtube.com/watch?v=66XK0PYabSs))
 3. Racism is a learned behavior and can be inherited
 
