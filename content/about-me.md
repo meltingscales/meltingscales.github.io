@@ -14,6 +14,7 @@ For trust's sake, here are my public SSH keys:
 
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIABXUrgDabknc+CVDcdyGIUP9yXzrR0EEnTijYNVTfKr melty@ubuntu-slimdragon
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK2ByzIejUUW78NXxke+NR3QIQ1BrVNaW/cuxknSX4D1 melty@nixos-white-dragon
 ```
 
 I hope you enjoy your stay!
