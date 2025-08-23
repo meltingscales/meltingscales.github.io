@@ -10,10 +10,10 @@ My old site used to be at [henrypost.net](https://henrypost.net), but I've since
 
 I may host other infrastructure on that domain, but for now, this is my main site.
 
-For trust's sake, here is my public SSH key:
+For trust's sake, here are my public SSH keys:
 
 ```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID1MsERDmBM3kqpRfYkse/jyqusAp4614GHavi55z8bc melty@melty-FZ55
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIABXUrgDabknc+CVDcdyGIUP9yXzrR0EEnTijYNVTfKr melty@ubuntu-slimdragon
 ```
 
 I hope you enjoy your stay!
