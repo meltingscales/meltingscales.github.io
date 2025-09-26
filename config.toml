@@ -128,3 +128,7 @@ title = 'Henry Post'
           name = "~/projects"
           url = "/projects"
 
+        [[languages.en.menu.main]]
+          identifier = "rss"
+          name = "~/rss"
+          url = "/index.xml"
