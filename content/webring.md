@@ -19,3 +19,10 @@ This is a curated list of other people's websites that I think are neat.
 	<img src="//sdomi.pl/img/button.bmp" alt="An 88x31 button. Witch hat on the left, text 'sdomi' on the right. The background is procedurally generated every 30 or so seconds." title="sdomi's webpage">
 </a>
 </div>
+
+
+Here's a list without 88x31 buttons:
+
+<ul>
+<li><a href="//justine.lol">justine.lol</a></li>
+</ul>
