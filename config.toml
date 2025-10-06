@@ -132,3 +132,9 @@ title = 'Henry Post'
           identifier = "rss"
           name = "~/rss"
           url = "/index.xml"
+
+
+        [[languages.en.menu.main]]
+          identifier = "webring"
+          name = "~/webring"
+          url = "/webring"
