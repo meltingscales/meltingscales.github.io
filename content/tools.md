@@ -5,6 +5,7 @@ A list of tools I use.
 ## Programming
 
 - python: general purpose language
+  - conda/poetry/uv/pipenv/pip - package managers. prefer uv for speed/simplicity.
   - pil/pillow: image processing library
   - numpy: numerical computing library
   - pandas: xlsx/csv manipulation library
@@ -47,3 +48,4 @@ i highly recommend never using windows, for many, many reasons
 ## Other
 
 - handy.computer - offline text transcription
+- sshx.io - share terminal (dangerous)
