@@ -35,8 +35,15 @@ i highly recommend never using windows, for many, many reasons
 - grafana: monitoring visualization
 - prometheus: monitoring metrics/backend
 
+## Media
+
+- yt-dlp: youtube downloader, before youtube killed it with session cookie enforcement.
+- transmission: torrent client
+- jellyfin: media server
+- romm: emulation ROM/retro game database
+- seanime: anime media server
+  - extensions: TODO
+
 ## Other
 
 - handy.computer - offline text transcription
-- transmission: torrent client
-- yt-dlp: youtube downloader, before youtube killed it with session cookie enforcement.
