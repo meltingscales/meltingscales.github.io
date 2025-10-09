@@ -42,8 +42,9 @@ i highly recommend never using windows, for many, many reasons
 - transmission: torrent client
 - jellyfin: media server
 - romm: emulation ROM/retro game database
-- seanime: anime media server
+- [seanime: anime media server](https://seanime.rahim.app/)
   - extensions: TODO
+- [gallery-dl: image downloader](https://github.com/mikf/gallery-dl)
 
 ## Other
 
