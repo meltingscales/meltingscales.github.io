@@ -294,3 +294,20 @@ I did not implement all of those features, but I did implement a basic version o
 [--> This is the source code for the project <--](https://github.com/meltingscales/cs-gy-6083-2025-spring-db-final-project/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0jUU-g4dFVg?si=6GtBMQnaMg54NcjO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Legal Discovery: Google Chrome History
+
+As an assistant to a friend who was a lawyer, I provided assistance as a neutral investigative party to prove whether or not
+an individual accessed certain documents from their web browser during a period of time.
+
+I had no connection to the individual, and my lawyer friend had no incentive to find or not find evidence, so
+I feel I was not influenced to perform with bias of any kind.
+
+I scanned browser log files in Windows, sqlite databases, and exports from the browser directly.
+
+To the legal counsel, I provided a log with timestamps of what data I accessed, my notes, and when I accessed the data.
+
+I used a specialized open-source tool meant to read the browser history sqlite database, and I also read it directly
+with SQLite Browser.
+
+All in all, it was a fun engagement and I could probably easily automate it since it was just a data analysis job!
