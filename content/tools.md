@@ -23,6 +23,13 @@ i highly recommend never using windows, for many, many reasons
 - cachyOS - easy arch based OS, fast
 - TrueNAS CORE - freebsd based NAS OS that uses ZFS, ZFS is superior for use as a NAS for many reasons
 
+## Hardware
+
+I run various cheap laptops and a few HEPC (High-End Personal Computer) setups.
+Only Linux, except for a Windows computer I use for piano playing.
+
+- https://pcpartpicker.com/user/henryfbp/saved/
+
 ## AI
 
 - ollama: AI model serving
