@@ -48,10 +48,12 @@ Only Linux, except for a Windows computer I use for piano playing.
 - yt-dlp: youtube downloader, before youtube killed it with session cookie enforcement.
 - transmission: torrent client
 - jellyfin: media server
+- immich: self hosted google photos clone
 - romm: emulation ROM/retro game database
 - [seanime: anime media server](https://seanime.rahim.app/)
   - extensions: TODO
 - [gallery-dl: image downloader](https://github.com/mikf/gallery-dl)
+
 
 ## Other
 
