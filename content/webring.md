@@ -27,6 +27,7 @@ Here's a list without 88x31 buttons:
 <li><a href="//justine.lol">justine.lol</a></li>
 <li><a href="//nullpt.rs">nullpt.rs</a></li>
 <li><a href="//mechanize.work">mechanize.work</a></li>
+<li><a href="//herman.bearblog.dev">herman.bearblog.dev</a></li>
 </ul>
 
 Here's a list of non-personal websites that are just good alternatives to
