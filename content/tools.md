@@ -13,6 +13,8 @@ A list of tools I use.
 - rust: faster than python.
 - bash: scripting language
 - just: very good build tool
+- postman: http requests
+  - bruno is probably better, TODO use it
 
 ## OS
 
