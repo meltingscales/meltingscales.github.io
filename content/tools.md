@@ -45,6 +45,12 @@ Only Linux, except for a Windows computer I use for piano playing.
 - grafana: monitoring visualization
 - prometheus: monitoring metrics/backend
 
+## Backup
+
+- `dd` - data duplicator/data destroyer
+
+<!-- TODO: Check out protondrive -->
+
 ## Media
 
 - yt-dlp: youtube downloader, before youtube killed it with session cookie enforcement.
