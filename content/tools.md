@@ -16,6 +16,15 @@ A list of tools I use.
 - postman: http requests
   - bruno is probably better, TODO use it
 
+### Text Editing
+
+- windsurf: bloated, use zeditor
+- cursor: bloated, use zeditor
+- vscode - bloated, only use if you absolutely need to. It's slow and used to be my favorite, but...
+
+- zeditor - Fast and simple text editor. Rust backend.
+- nano - command line editor
+
 ## OS
 
 i highly recommend never using windows, for many, many reasons
