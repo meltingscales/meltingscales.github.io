@@ -47,6 +47,15 @@ Only Linux, except for a Windows computer I use for piano playing.
 - openwebui: frontend for ollama
 - comfyui: image/video/audio gen
 
+### Corpo AI for coding
+
+- claude: You can use this, but you can also self-host local AI and use CLI tools like:
+  - `aider`: OSS claude cli clone
+  - etc...TODO: Add more coding agents here from testing.
+
+The basic pattern to locally host is just to run `ollama` on a powerful PC, set up a VPN with `tailscale`, and then
+just connect to the ollama endpoint with your less powerful computer via a coding agent like `aider` or a frontend like `openwebui`.
+
 ## Infra
 
 - docker: containerization platform
