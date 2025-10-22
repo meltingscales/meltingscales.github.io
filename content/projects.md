@@ -147,7 +147,7 @@ I worked at the Academic Resource Center (ARC) at IIT. I helped students with th
 
 This was a project that I worked on that was inspired by my mother, Anne-Marie Keswick. She worked at various different women's shelters and homeless shelters in the Chicago area.
 
-The project was a web application that would allow people to donate items to homeless shelters. The shelters would have a list of items that they needed, and people could sign up to donate those items. The shelters would then be able to coordinate with the donors to pick up the items. 
+The project was a web application that would allow people to donate items to homeless shelters. The shelters would have a list of items that they needed, and people could sign up to donate those items. The shelters would then be able to coordinate with the donors to pick up the items.
 
 It was planned to orchestrate logistics and optimize the distribution of desired goods, weighted by category and urgency.
 
@@ -289,7 +289,7 @@ I did not implement all of those features, but I did implement a basic version o
 
 [--> This is my final presentation video <--](https://youtu.be/0jUU-g4dFVg)
 
-[--> This is my final presentation PDF/ppt <--](https://github.com/meltingscales/cs-gy-6083-2025-spring-db-final-project/blob/master/PRESENTATION-Homeless-Shelter-Donation-Coordination-System.pdf) 
+[--> This is my final presentation PDF/ppt <--](https://github.com/meltingscales/cs-gy-6083-2025-spring-db-final-project/blob/master/PRESENTATION-Homeless-Shelter-Donation-Coordination-System.pdf)
 
 [--> This is the source code for the project <--](https://github.com/meltingscales/cs-gy-6083-2025-spring-db-final-project/)
 
@@ -311,3 +311,15 @@ I used a specialized open-source tool meant to read the browser history sqlite d
 with SQLite Browser.
 
 All in all, it was a fun engagement and I could probably easily automate it since it was just a data analysis job!
+
+### C.A.R.E. Animal Shelter Donation Aggregation tool
+
+I volunteer at a wonderful animal shelter called "Community Animal Rescue Effort" (C.A.R.E.) in Skokie.
+
+https://www.carenorthshore.org/
+
+Their staff needed a more efficient way to stitch data together, so I made them a website. It's pretty secure, fast, and simple.
+
+https://care-shelter-donation-aggregation-163012697625.us-central1.run.app/about
+
+https://github.com/meltingscales/CAREShelterDonationDataAggregation
