@@ -36,6 +36,20 @@ Only Linux, except for a Windows computer I use for piano playing.
 - openwebui: frontend for ollama
 - comfyui: image/video/audio gen
 
+### Local AI models
+
+You can pull these from ollama and self-host.
+
+- llama3.2:3b
+  - tbd.
+- yuiseki/devstral-small-2507:24b
+  - tbd.
+- hf.co/bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF:Q4_K_S
+  - tbd.
+- hf.co/mlabonne/gemma-3-27b-it-abliterated-GGUF:Q4_K_M
+  - tbd.
+
+
 ## Infra
 
 - docker: containerization platform
