@@ -53,7 +53,6 @@
         </td>
         <td style="text-align: right">
           <ul style="list-style: none; color:white">
-            <li>linkedin.com/in/henryfbp</li>
             <li>Chicago | Martha's Vineyard</li>
             <li>meltingscales.github.io</li>
             <li>henryfbp [at] gmail [dot] com</li>
@@ -83,4 +82,3 @@
     </span>
   </div>
 </div>
-

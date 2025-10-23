@@ -13,6 +13,17 @@ A list of tools I use.
 - rust: faster than python.
 - bash: scripting language
 - just: very good build tool
+- postman: http requests
+  - bruno is probably better, TODO use it
+
+### Text Editing
+
+- windsurf: bloated, use zeditor
+- cursor: bloated, use zeditor
+- vscode - bloated, only use if you absolutely need to. It's slow and used to be my favorite, but...
+
+- zeditor - Fast and simple text editor. Rust backend.
+- nano - command line editor
 
 ## OS
 
@@ -36,18 +47,28 @@ Only Linux, except for a Windows computer I use for piano playing.
 - openwebui: frontend for ollama
 - comfyui: image/video/audio gen
 
+### Corpo AI for coding
+
+- claude: You can use this, but you can also self-host local AI and use CLI tools like:
+  - `aider`: OSS claude cli clone
+  - etc...TODO: Add more coding agents here from testing.
+
+The basic pattern to locally host is just to run `ollama` on a powerful PC, set up a VPN with `tailscale`, and then
+just connect to the ollama endpoint with your less powerful computer via a coding agent like `aider` or a frontend like `openwebui`.
+
 ### Local AI models
 
-You can pull these from ollama and self-host.
+You can pull these from ollama and self-host. I plan on running my own benchmarks on each.
 
 - llama3.2:3b
-  - tbd.
+  - TODO: Test.
 - yuiseki/devstral-small-2507:24b
-  - tbd.
+  - TODO: Test.
 - hf.co/bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF:Q4_K_S
-  - tbd.
+  - TODO: Test.
 - hf.co/mlabonne/gemma-3-27b-it-abliterated-GGUF:Q4_K_M
-  - tbd.
+  - TODO: Test.
+
 
 
 ## Infra

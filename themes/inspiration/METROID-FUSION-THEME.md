@@ -256,17 +256,30 @@ body::after {
 
 ## Implementation Checklist:
 
-- [ ] Set up CSS variables for color palette
-- [ ] Import retro gaming font
-- [ ] Add grid background pattern
-- [ ] Style headings with corner brackets
-- [ ] Apply glowing borders to containers
-- [ ] Update link colors and hover effects
-- [ ] Style navigation as status bar
-- [ ] Create energy bar-style post lists
-- [ ] Add scanline effect (optional)
-- [ ] Update code block syntax colors
-- [ ] Modify button styles
-- [ ] Test responsive layout
+- [x] Set up CSS variables for color palette
+- [x] Import retro gaming font (Press Start 2P)
+- [x] Add grid background pattern
+- [x] Style headings with corner brackets
+- [x] Apply glowing borders to containers
+- [x] Update link colors and hover effects
+- [x] Modify button styles with glowing effects
+- [x] Create energy bar-style post lists
+- [x] Add scanline effect (optional)
+- [x] Update code block syntax colors
+- [ ] Style navigation as status bar (in progress)
+- [ ] Test responsive layout on mobile
 - [ ] Optimize for performance
 - [ ] Accessibility review
+
+## Implementation Notes (2025-10-22):
+
+The Metroid Fusion theme has been successfully implemented in `/themes/terminal/assets/css/`. Key changes:
+
+1. **Color palette**: All CSS variables updated to cyan/magenta/yellow scheme
+2. **Typography**: Press Start 2P font imported and applied
+3. **Visual effects**: Grid background, glowing borders, CRT scanlines
+4. **Interactive elements**: Cyan->magenta hover transitions with glow effects
+5. **Code syntax**: Cyan keywords, magenta strings, yellow numbers
+6. **Lists**: Energy bar-style with magenta left border and gradient
+
+Server running at: http://localhost:1313/
