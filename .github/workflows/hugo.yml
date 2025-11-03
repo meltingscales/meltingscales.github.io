@@ -62,7 +62,7 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Insert redirect script
         run: |
-          sed -i 's|</head>|  <script>window.location.href="https://rust-blog-644508182735.us-central1.run.app";</script>\n</head>|' ./public/index.html
+          sed -i 's|</head>|  <script>window.location.href="//drakonix.systems";</script>\n</head>|' ./public/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
